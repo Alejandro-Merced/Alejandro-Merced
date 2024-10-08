@@ -8,7 +8,7 @@
 
 <br><br>
 
-- :What I do for a living is: I am an Infrastructure Engineer (Cloud , Network, Systems)
+- :technologist: What I do for a living is: I am an Infrastructure Engineer (Cloud , Network, Systems)
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Python` and `Terraform`.
 - :nerd_face: Always `learning new things`.
@@ -37,21 +37,23 @@ You can click the Preview link to take a look at your changes.
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
   <br />
-
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
   <code><img width="15%" src="https://brandeps.com/logo-download/W/Windows-logo-vector-01.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="15%" src="https://github.com/Alejandro-Merced/Alejandro-Merced/blob/main/JetBrains_PyCharm_Product_Logo.svg"></code>
 </p>
-
+<br />
+<br />
 
 
 
