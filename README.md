@@ -48,6 +48,8 @@ You can click the Preview link to take a look at your changes.
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
   <code><img width="15%" src="https://brandeps.com/logo-download/W/Windows-logo-vector-01.svg"></code>
+  <code><img width="15%" src="https://github.com/user-attachments/assets/ec78802b-bdc2-44ba-8d50-67cf37960f23"></code>
+
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <code><img width="15%" src="https://github.com/Alejandro-Merced/Alejandro-Merced/blob/main/JetBrains_PyCharm_Product_Logo.svg"></code>
