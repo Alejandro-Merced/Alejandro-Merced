@@ -56,7 +56,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br />
 <br />
-### ⚙️ &nbsp;GitHub Analytics
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Alejandro-Merced">
