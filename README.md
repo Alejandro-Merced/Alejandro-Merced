@@ -56,6 +56,14 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br />
 <br />
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Alejandro-Merced">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alejandro-Merced&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alejandro-Merced&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
